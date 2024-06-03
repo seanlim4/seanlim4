@@ -1,6 +1,6 @@
 forens main
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanlim4)](https://github.com/anuraghazra/github-readme-stats)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanlim4&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## notable Ws
 - Hack@AC ACS Category 3rd Place
